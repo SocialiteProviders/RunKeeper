@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\RunKeeper;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
